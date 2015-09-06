@@ -1,2 +1,2 @@
 # GoogleCodeU
-Completed Technical Exercises from Session 3 and 4
+Completed Technical Exercises from Session 3 and Session 4
